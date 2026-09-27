@@ -179,7 +179,8 @@ const Dashboard = () => {
             </h1>
 
             <p className="text-blue-100 mt-2">
-              Keep pushing yourself and stay consistent.
+              Keep pushing yourself and stay consistent . This is Your Fitness
+              Journey
             </p>
           </div>
 
