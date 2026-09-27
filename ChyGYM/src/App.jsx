@@ -43,7 +43,7 @@ const AppRoutes = () => {
       />
 
       <Route
-        path="/workout"
+        path="/Workout"
         element={
           <ProtectedRoute>
             <MainLayout>

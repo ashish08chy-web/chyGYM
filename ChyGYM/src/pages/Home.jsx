@@ -89,7 +89,7 @@ const Home = () => {
               <div className="relative rounded-3xl overflow-hidden border border-gray-800 shadow-2xl">
                 <img
                   src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=80"
-                  alt="Gym workout"
+                  alt="Gym Workout"
                   className="w-full h-[550px] object-cover"
                 />
 
