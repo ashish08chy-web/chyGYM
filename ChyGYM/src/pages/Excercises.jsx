@@ -61,7 +61,7 @@ const Exercises = () => {
         return;
       }
 
-      const response = await fetch("http://$ {API_URL}/api/exercises", {
+      const response = await fetch(`${API_URL}/api/exercises`, {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
@@ -174,7 +174,7 @@ const Exercises = () => {
         return;
       }
 
-      const response = await fetch("http://$ {API_URL}/api/workout", {
+      const response = await fetch(`${API_URL}/api/workout`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

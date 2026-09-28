@@ -22,7 +22,7 @@ const Progress = () => {
         return;
       }
 
-      const response = await fetch("http://$ {API_URL}/api/workout", {
+      const response = await fetch(`${API_URL}/api/workout`, {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,

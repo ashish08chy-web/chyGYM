@@ -26,7 +26,7 @@ const Workout = () => {
     try {
       const token = localStorage.getItem("token");
 
-      const response = await fetch("http://$ {API_URL}/api/workout", {
+      const response = await fetch(`${API_URL}/api/workout`, {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
@@ -80,7 +80,7 @@ const Workout = () => {
 
       const token = localStorage.getItem("token");
 
-      const response = await fetch("http://$ {API_URL}/api/workout", {
+      const response = await fetch(`${API_URL}/api/workout`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
