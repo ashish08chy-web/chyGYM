@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { API_URL } from "../config";
 import {
   Search,
   Dumbbell,
