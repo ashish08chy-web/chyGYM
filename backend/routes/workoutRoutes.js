@@ -1,5 +1,5 @@
 const express = require("express");
-const Workout = require("../models/workout");
+const Workout = require("../models/Workout");
 const authMiddleware = require("../Middleware/authMiddleware");
 
 const router = express.Router();

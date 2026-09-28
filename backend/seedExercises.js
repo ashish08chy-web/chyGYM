@@ -1,10 +1,11 @@
+const path = require("path");
 const dotenv = require("dotenv");
 const mongoose = require("mongoose");
 
 const connectDB = require("./config/db");
 const Exercise = require("./models/Exercise");
 
-dotenv.config();
+dotenv.config({ path: path.join(__dirname, ".env") });
 
 const exercises = [
   {
