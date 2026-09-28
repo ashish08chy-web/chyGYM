@@ -42,7 +42,7 @@ const Dashboard = () => {
         return;
       }
 
-      const response = await fetch("http://localhost:5000/api/auth/profile", {
+      const response = await fetch("http://$ {API_URL}/api/auth/profile", {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
@@ -76,7 +76,7 @@ const Dashboard = () => {
         return;
       }
 
-      const response = await fetch("http://localhost:5000/api/workout", {
+      const response = await fetch("http://$ {API_URL}/api/workout", {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,

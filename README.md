@@ -10,41 +10,41 @@ The project is built using **React.js, Tailwind CSS, Node.js, Express.js, MongoD
 
 ### 🔐 Authentication
 
-* User Signup
-* User Login
-* JWT-based authentication
-* Protected routes
-* Secure password hashing using bcrypt
-* Logout functionality
+- User Signup
+- User Login
+- JWT-based authentication
+- Protected routes
+- Secure password hashing using bcrypt
+- Logout functionality
 
 ### 🏋️ Workout Management
 
-* Add workouts
-* View personal workout history
-* Track workout duration
-* Track calories burned
-* Track workout date
-* Delete workouts
-* Add exercises to workouts
-* Track sets, reps, and weight
+- Add workouts
+- View personal workout history
+- Track workout duration
+- Track calories burned
+- Track workout date
+- Delete workouts
+- Add exercises to workouts
+- Track sets, reps, and weight
 
 ### 💪 Exercise Library
 
-* Exercise database
-* Search exercises
-* Filter exercises by muscle group
-* View exercise details
-* Add exercises to workouts
-* Favorite exercises
+- Exercise database
+- Search exercises
+- Filter exercises by muscle group
+- View exercise details
+- Add exercises to workouts
+- Favorite exercises
 
 ### 🎨 User Interface
 
-* Responsive design
-* Modern dashboard
-* Tailwind CSS styling
-* Sidebar navigation
-* Mobile-friendly layout
-* Loading and error states
+- Responsive design
+- Modern dashboard
+- Tailwind CSS styling
+- Sidebar navigation
+- Mobile-friendly layout
+- Loading and error states
 
 ---
 
@@ -52,26 +52,26 @@ The project is built using **React.js, Tailwind CSS, Node.js, Express.js, MongoD
 
 ### Frontend
 
-* React.js
-* React Router
-* Tailwind CSS
-* Lucide React
-* JavaScript
+- React.js
+- React Router
+- Tailwind CSS
+- Lucide React
+- JavaScript
 
 ### Backend
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* JWT
-* bcryptjs
-* CORS
-* dotenv
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- bcryptjs
+- CORS
+- dotenv
 
 ### Database
 
-* MongoDB Atlas
+- MongoDB Atlas
 
 ---
 
@@ -276,7 +276,7 @@ node server.js
 Backend will run on:
 
 ```text
-http://localhost:5000
+http://$ {API_URL}
 ```
 
 ### Start Frontend
@@ -325,22 +325,22 @@ This adds the initial exercise library to MongoDB.
 
 While building chyGYM, I worked with:
 
-* React component architecture
-* React Router
-* Protected routes
-* REST APIs
-* Express.js
-* MongoDB Atlas
-* Mongoose models
-* JWT authentication
-* Password hashing
-* Middleware
-* CRUD operations
-* API integration
-* Tailwind CSS
-* Frontend and backend communication
-* Error handling
-* Git and GitHub
+- React component architecture
+- React Router
+- Protected routes
+- REST APIs
+- Express.js
+- MongoDB Atlas
+- Mongoose models
+- JWT authentication
+- Password hashing
+- Middleware
+- CRUD operations
+- API integration
+- Tailwind CSS
+- Frontend and backend communication
+- Error handling
+- Git and GitHub
 
 ---
 
@@ -348,16 +348,16 @@ While building chyGYM, I worked with:
 
 Planned improvements for chyGYM include:
 
-* 📊 Advanced progress charts
-* 📈 Workout analytics
-* 🏆 Personal fitness goals
-* 🔔 Workout reminders
-* 👤 Improved profile management
-* 🏋️ Multiple exercises per workout
-* 📱 Better mobile experience
-* ☁️ Production deployment
-* 🔐 Improved password recovery system
-* 📊 Advanced dashboard statistics
+- 📊 Advanced progress charts
+- 📈 Workout analytics
+- 🏆 Personal fitness goals
+- 🔔 Workout reminders
+- 👤 Improved profile management
+- 🏋️ Multiple exercises per workout
+- 📱 Better mobile experience
+- ☁️ Production deployment
+- 🔐 Improved password recovery system
+- 📊 Advanced dashboard statistics
 
 ---
 
@@ -389,11 +389,11 @@ BCA Student & Web Developer
 
 Interested in:
 
-* React.js
-* Next.js
-* Node.js
-* Full-Stack Development
-* Modern Web Development
+- React.js
+- Next.js
+- Node.js
+- Full-Stack Development
+- Modern Web Development
 
 ---
 

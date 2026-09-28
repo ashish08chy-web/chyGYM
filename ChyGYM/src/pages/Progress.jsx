@@ -22,7 +22,7 @@ const Progress = () => {
         return;
       }
 
-      const response = await fetch("http://localhost:5000/api/workout", {
+      const response = await fetch("http://$ {API_URL}/api/workout", {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
